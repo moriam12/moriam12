@@ -1,1 +1,3 @@
-pblish
+pblish class student{
+
+}
